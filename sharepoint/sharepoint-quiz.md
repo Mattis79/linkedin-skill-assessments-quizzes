@@ -262,7 +262,7 @@
 #### Q33. A user wants to be notified when a certain file changes. What can achieve this?
 
 - [ ] an object alert
-- [ ] a document alert
+- [x] a document alert
 - [ ] a site alert
 - [ ] a library alert
 
@@ -347,7 +347,7 @@
 
 #### Q42. You would like to use a SharePoint list app while traveling. What allows access to the app without directly interacting with SharePoint?
 
-- [ ] PowerApps
+- [x] PowerApps
 - [ ] Forms
 - [ ] Power Automate
 - [ ] Delve
@@ -427,12 +427,12 @@
 - [ ] Collection
 - [ ] Site
 - [ ] List
-- [ ] Library
+- [x] Library
 
 #### Q54. You want to allow users to install site add-ins for a SharePoint farm. What must you configure first?
 
 - [ ] an App URL
-- [ ] an app request
+- [x] an app request
 - [ ] an App store
 - [ ] an App Catalog
 
@@ -440,12 +440,12 @@
 
 - [ ] SQL Azure
 - [ ] Windows Communication Foundation
-- [ ] SQL Server
+- [x] SQL Server
 - [ ] Open Data
 
 #### Q56 What is the easiest way to assign permissions to multiple SharePoint sites for multiple users?
 
 - [ ] By Users
-- [ ] By Groups
+- [x] By Groups
 - [ ] By site levels
 - [ ] By sites
